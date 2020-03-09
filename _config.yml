@@ -7,6 +7,8 @@ name: Fisayo Oluwajana
 title: DevOps Engineer
 email: fisoluwajana@gmail.com
 
+darkmode: true
+
 # Social links
 # twitter_username: facespics
 github_username:  fisoluwajana
@@ -51,7 +53,6 @@ footer_show_references: true
 
 # Build settings
 remote_theme: sproogen/resume-theme
-darkmode: true
 
 sass:
   sass_dir: _sass
