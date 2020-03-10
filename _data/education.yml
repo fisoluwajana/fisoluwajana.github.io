@@ -6,4 +6,18 @@
     Key Modules:
 
     - Statistical Programming in R
-    - Introduction to Programming in Java, Python
+    - Introduction to Programming with Python
+    - Introduction to Problem Solving with Java
+
+- layout: left
+  name: University of Leeds
+  dates: 2013-2017
+  qualification: MMath, BSc Mathematics (International)
+  description: | # this will include new lines to allow paragraphs
+    Key Modules:
+
+    - Statistical Programming in R
+    - Introduction to Programming with Python
+    - Introduction to Problem Solving with Java
+
+
