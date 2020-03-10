@@ -5,4 +5,5 @@
   description: | # this will include new lines to allow paragraphs
     Key Modules:
 
-    Statistical Programming in R, Introduction to Programming in Java, Python
+    - Statistical Programming in R
+    - Introduction to Programming in Java, Python
