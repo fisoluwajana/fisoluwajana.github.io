@@ -9,7 +9,7 @@
     - Introduction to Programming with Python
     - Introduction to Problem Solving with Java
 
-- layout: Left
+- layout: left
   name: St Mary's RC High School
   dates: 2006-2013
   description: | # this will include new lines to allow paragraphs
