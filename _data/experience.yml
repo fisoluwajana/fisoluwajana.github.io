@@ -4,19 +4,19 @@
   job_title: DevOps Engineer
   dates: October 2017 - Present
   description: | # this will include new lines to allow paragraphs
-    - Completed several end-to-end deployments of .NET applications across the AWS and Microsoft Azure cloud platforms
-      using Hashicorp Terraform and AWS Cloudformation for infrastructure as code, Hashicorp Packer for configuration
-      management, as well as Bitbucket Server, TeamCity, Octopus Deploy and Jenkins for CI/CD
+    - Completed several end-to-end deployments of .NET applications across the <mark>AWS</mark> and Microsoft <mark>Azure</mark> cloud platforms
+      using Hashicorp <mark>Terraform</mark> and AWS Cloudformation for infrastructure as code, Hashicorp Packer for configuration
+      management, as well as Bitbucket Server, TeamCity, Octopus Deploy and <mark>Jenkins</mark> for CI/CD
     - Owned development, testing and production environments for multiple applications and worked with QA testers,
       developers, project managers and business owners on best practice and efficient process
     - Took ownership of an on-premise RHEL fleet of 33 servers running multiple data science workloads using Hadoop,
-      Spark, R/R-Studio for client critical operations and pioneered the migration of this environment to the cloud with GCP
+      Spark, R/R-Studio for client critical operations and pioneered the migration of this environment to the cloud with <mark>GCP</mark>
       at the forefront - educating on the usage of DataProc and BigQuery.
-    - Automated recovery and self-healing processes through the use of AWS Lambda functions written in Python and Go
+    - Automated recovery and self-healing processes through the use of AWS <mark>Lambda</mark> functions written in <mark>Python</mark> and Go
     - Contributed to the standards of growing Google Cloud estate and promoted the use of the “container-first” working
-      methodology with Kubernetes at the forefront
+      methodology with <mark>Kubernetes</mark> at the forefront
     - Helped to define standards and ways of working through the use of Terraform modules and Jenkins shared libraries
-    - Introduced monitoring, logging and alerting systems using open source tools such as Prometheus and Grafana
+    - Introduced monitoring, logging and alerting systems using open source tools such as Prometheus and <mark>Grafana</mark>
     - Presented our brand and ways of working at a number of conferences, recruitments events and external tech
       meetups
     - Developed a full classroom based learning path for new and maturing engineers around the fundamentals and cloud,
