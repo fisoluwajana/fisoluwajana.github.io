@@ -1,5 +1,5 @@
 - layout: left
-  company: KPMG
+  company: KPMG UK
   link: home.kpmg/uk
   job_title: DevOps Engineer
   dates: October 2017 - Present
@@ -21,3 +21,14 @@
       meetups
     - Developed a full classroom based learning path for new and maturing engineers around the fundamentals and cloud,
       DevOps and our key tools and processes
+
+- layout: left
+  company: University of Massachusetts-Amherst Biostatistics Department
+  job_title: Programmer and Research Assistant 
+  dates: January 2016 - June 2016
+  description: | # this will include new lines to allow paragraphs
+    - Completed 3 major updates to the ‘Family Planning Estimation Tool’ server framework written in R, Shiny and HTML,
+      to collect summarise and analyse official government data on contraception use and pregnancies
+    - Presented changes to the code with many international researchers at a board meeting in DC-1, United Nations, New
+      York City
+    - Worked as part of a team to respond to requests, incidents and queries from clients in a number of countries
