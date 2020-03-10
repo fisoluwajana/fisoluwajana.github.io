@@ -1,6 +1,6 @@
 # Site
 repository: fisoluwajana/fisoluwajana.github.io
-#favicon: images/favicon.ico
+favicon: images/favicon.ico
 
 # Personal info
 name: Fisayo Oluwajana
@@ -23,7 +23,7 @@ linkedin_username: fisayooluwajana
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   I am a competent and driven DevOps Engineer with a passion for promoting standards in CI/CD, Infrastructure as Code and Configuration Management to accelerate product delivery.
   
