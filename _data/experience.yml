@@ -1,8 +1,28 @@
 - layout: left
+  company: Gymshark
+  link: gymshark.com
+  job_title: Senior Platform Reliability Engineer
+  dates: July 2021 - Present
+  description: | # this will include new lines to allow paragraphs
+    - Co-lead a team of engineers in building and securing the infrastructure required for a migration of the core E-commerce site
+      previously built using Shopify to the in-house Platform hosted on Amazon EKS managed through Terraform and eksctl for Infrastructure as Code and flux for GitOps management. 
+      Utilised load balancing tooling including as Traefik, Amazon ALB and monitoring using Datadog to continuously improve this stack and improve user experience to 
+      achieve an increase in revenue in the order of millions
+    - Managed the in-house Engineering Platform consisting of EKS for PaaS, serverless capabilities using Lambda and Fargate, Github and Codefresh for CI/CD, 
+      Artillery for testing and much more tooling. Improved the Developer experience by automating messaging from the Platform using Slack and creating clear and 
+      regular SLAs and and SLOs using Datadog
+    - Transformed further in-house engineering tools, particularly bringing older platforms into the cloud such as Tableau and AWS Sagemaker for Data Science and BI. 
+    - Mentored several junior engineers across multiple teams in learning DevOps capabilities in order to create a clear ownership culture over infrastructure required, 
+      and helping to move towards a full build it - run it mentality
+    - Heavily contributed to cost optimisation by moving towards a “FinOps” culture, and promoting continual cost improvements rather than rely on initiatives and 
+       waterfall cost cutting cycles. Built tooling using Kubernetes, AWS Step Functions, Bash and Python to automate scaling down unused infrastructure during downtimes. 
+
+
+- layout: left
   company: KPMG UK
   link: home.kpmg/uk
-  job_title: DevOps Engineer
-  dates: October 2017 - Present
+  job_title: Senior DevOps Engineer
+  dates: October 2017 - June 2021
   description: | # this will include new lines to allow paragraphs
     - Completed several end-to-end deployments of .NET applications across the <mark>AWS</mark> and Microsoft <mark>Azure</mark> cloud platforms
       using Hashicorp <mark>Terraform</mark> and AWS Cloudformation for infrastructure as code, Hashicorp Packer for configuration
